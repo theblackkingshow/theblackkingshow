@@ -44,7 +44,8 @@ Building innovative businesses, scalable technologies, and the future of digital
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theblackkingshow" />
+  <img src="<img width="1280" height="1024" alt="git" src="https://github.com/user-attachments/assets/65e76f7c-2cf7-45bf-ab13-555f51ee7198" />
+" />
 </p>
 
 <h3 align="center">🔥 Building. Investing. Innovating. 🔥</h3>
