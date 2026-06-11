@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Asher Cheruiyot</h1>
 
-<!--
-**theblackkingshow/theblackkingshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Tech Guru | 💼 Entrepreneur | 📈 Business Investor | 🌍 Co-Founder of Moonsoon Group
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building innovative businesses, scalable technologies, and the future of digital transformation.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Tech+Guru;Entrepreneur;Business+Investor;Co-Founder+of+Moonsoon+Group;AI+%7C+Cybersecurity+%7C+Innovation;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🚀 Co-Founder of **Moonsoon Group**
+- 💼 Entrepreneur building impactful ventures
+- 📈 Business Investor focused on innovation
+- 🤖 Passionate about AI, Automation & Emerging Tech
+- 🔐 Cybersecurity Enthusiast
+- 🌍 Open to partnerships, collaborations, and investments
+
+---
+
+### ⚡ Vision
+
+> "Transforming ideas into businesses and businesses into legacies."
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 Business & Investment Opportunities
+- 🤝 Strategic Partnerships
+- 🚀 Startup Collaborations
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theblackkingshow_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theblackkingshow" />
+</p>
+
+<h3 align="center">🔥 Building. Investing. Innovating. 🔥</h3>
