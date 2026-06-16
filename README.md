@@ -32,7 +32,7 @@ Building innovative businesses, scalable technologies, and the future of digital
 ---
 
 ### 🌐 Connect With Me
--"www.linkedin.com/in/asher-cheruiyot-8b06083b3"
+-"www.linkedin.com/in/asher-cheruiyot"
 - 💼 Business & Investment Opportunities
 - 🤝 Strategic Partnerships
 - 🚀 Startup Collaborations
