@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Asher Cheruiyot</h1>
 
 <h3 align="center">
-🚀 Tech Guru | 💼 Entrepreneur | 📈 Business Investor | 🌍 Co-Founder of Moonsoon Group
+🚀 Tech Guru | 💼 Entrepreneur | 🌍 Co-Founder of Moonsoon Group
 </h3>
 
 <p align="center">
